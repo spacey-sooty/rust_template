@@ -1,5 +1,14 @@
-/target
-Cargo.lock
 *.exe
 *.out
 
+.vscode
+.idea
+
+debug/
+target/
+
+Cargo.lock
+
+**/*.rs.bk
+
+*.pdb
