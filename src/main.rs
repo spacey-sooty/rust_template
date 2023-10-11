@@ -1,1 +1,3 @@
+mod tests;
+
 fn main() {}
